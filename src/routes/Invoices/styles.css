@@ -1,0 +1,13 @@
+.nav-red {
+    color: red;
+    font-weight: 600;
+}
+.nav-blue {
+    color: blue;
+    
+}
+
+.dblock {
+    margin: 1rem 0;
+    display: block;
+}
